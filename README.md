@@ -29,4 +29,4 @@
 * [Project 3](https://github.com/ga-dc/pbj-project3/blob/master/readme.md)
 * [MV* with Backbone](10-mvw-with-backbone/readme.md)
 * [MV* with Angular](11-mvw-with-angular/readme.md)
-* [Portfolio Project](https://github.com/ga-dc/pbj-project4/blob/master/readme.md)
+* [Portfolio Project](https://github.com/ga-dc/pbj-project4/blob/master/readme.md)# ClassTest
